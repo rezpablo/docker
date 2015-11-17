@@ -1,6 +1,0 @@
-#!/bin/bash
-
-if [ -d /home/developer/.IdeaIC15 ]; then
-  sudo chown developer:developer /home/developer/.IdeaIC15
-fi
-exec /opt/intellij/bin/idea.sh
