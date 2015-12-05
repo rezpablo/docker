@@ -1,6 +1,6 @@
 # Docker
 
-### Structure Imagens
+### Structure Images
 
 ```
 (https://hub.docker.com/_/ubuntu/)
@@ -49,7 +49,7 @@
 |                  |             |                |                |                |                            | qemu-kvm kmod          |
 
 
-### Pull Imagens
+### Pull Images
 
 [Docker-Hub rezpablo repository](https://hub.docker.com/u/rezpablo/)
 
@@ -141,7 +141,7 @@ docker run -it \
           rezpablo/android_dev
 ```
 
-HOW TO USE ANDROID ENVIROMENTS IN INTELLIJ CONTAINER
+HOW TO use android enviroments on Intellij container
 ``` shellscript
 docker run -it --rm \
           -e DISPLAY=$DISPLAY \
