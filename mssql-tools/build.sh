@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t afferolab/mssql-tools .
+docker build -t rezpablo/mssql-tools .
